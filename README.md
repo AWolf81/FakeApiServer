@@ -1,5 +1,5 @@
 # About this project
-The idea is to create a simple JSON / JSONP REST API for learing ajax requests with jQuery, AngularJS etc.
+The idea is to create a simple JSON / JSONP REST API for learning ajax requests with jQuery, AngularJS etc.
 
 # TODO:
 
