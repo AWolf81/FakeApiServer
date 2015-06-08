@@ -7,3 +7,4 @@ The idea is to create a simple JSON / JSONP REST API for learning ajax requests 
 - Integrate an api documentation with SWAGGER
 - Add a weather API route to msn weather. --> MSN service stopped --> new service required!!
 - Create a static dummyUserList. (DONE)
+- Create a timeserver api.
