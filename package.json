@@ -1,0 +1,29 @@
+{
+  "name": "FakeApiServer",
+  "version": "0.0.1",
+  "description": "Simple fake api server for JSON requests.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AWolf81/FakeApiServer.git"
+  },
+  "author": "Alexander Wolf <AWolf2904@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AWolf81/FakeApiServer/issues"
+  },
+  "homepage": "https://github.com/AWolf81/FakeApiServer",
+  "dependencies": {
+    "connect": "^3.3.5",
+    "express": "^4.12.4",
+    "mongodb": "^2.0.33",
+    "mongoose": "^4.0.5",
+    "node-uuid": "^1.4.3",
+    "swagger-tools": "^0.8.7",
+    "weather-js": "^1.0.2"
+  }
+}
